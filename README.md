@@ -1,5 +1,5 @@
-<div align="left">
-<img src= "https://www.pngkit.com/png/full/148-1486363_15-color-waves-png-for-free-download-on.png"align="center" style="width: 100%" />
+<div align="center">
+<img src= "https://i.pinimg.com/originals/0e/b1/56/0eb15636563ecc2920056a5dd6e496c5.gif"align="center" style="width: 100%" />
 </div>  
   
 
