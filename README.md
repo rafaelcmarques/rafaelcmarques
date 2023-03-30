@@ -59,7 +59,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/rafaelcmarques" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -73,12 +73,16 @@
 
 
 ## Github Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rafaelcmarques&show_icons=true&count_private=true&hide_border=true"/>
+<br/>  
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rafaelcmarques&show_icons=true&count_private=true&hide_border=true&theme=apprentice"/>
 </div> 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcmarques&hide_border=true&layout=compact"/>  
+<br/>  
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcmarques&hide_border=true&layout=compact&theme=apprentice"/>  
 </div> 
 
 <br/>  
