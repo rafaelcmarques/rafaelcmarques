@@ -1,5 +1,5 @@
-<div align="center">
-<img src= "https://camo.githubusercontent.com/a55cc16beb5511269e7c0afcab268bca2690b9b7267972622da01e6b3eb9f1f5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d303a4541363838442c3130303a373443464545266865696768743d3135302673656374696f6e3d686561646572"align="center" style="width: 100%" />
+<div align="left">
+<img src= "https://www.pngkit.com/png/full/148-1486363_15-color-waves-png-for-free-download-on.png"align="center" style="width: 100%" />
 </div>  
   
 
