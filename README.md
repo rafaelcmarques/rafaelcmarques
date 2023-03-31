@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello ! I'm Rafael 👋</div>  
+### <div align="center">Hello ! I'm Rafael Marques 👋</div>  
   
 
 - *🎓 I have a bachelor’s degree in Information System*  
