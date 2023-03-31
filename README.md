@@ -9,7 +9,7 @@
 - *🎓 I have a bachelor’s degree in Information System*  
   
 
-- *💻 I’m currently studying Web Development at Rocketseat*  
+- *💻 I’m currently studying Web Development at [Rocketseat](https://github.com/rocketseat-education) 🚀*  
   
 
 - *🗣️ I'm bilingual in Portuguese and English*  
