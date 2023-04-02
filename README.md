@@ -18,7 +18,7 @@
 <br/>  
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/rafaelcmarques" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -80,7 +80,7 @@
 ## Github Stats  
 <br/>  
 
-<div align="center"> 
+<div align="left"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcmarques&hide_border=true&layout=compact&theme=react"/>
 <br/> 
 <img src="https://github-readme-stats.vercel.app/api?username=rafaelcmarques&show_icons=true&count_private=true&hide_border=true&theme=react"/> 
