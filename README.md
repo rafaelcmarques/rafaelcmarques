@@ -19,19 +19,20 @@
 
 [FoodExplorer](https://github.com/rafaelcmarques/foodexplorer)
 
-####About the project
+#### About the project
 
 FoodExplorer is an interactive menu for a fictional restaurant.
 
 Features:
 
-Create, view, edit, and delete dishes at any time.
-View all dishes registered.
-When clicking on a dish, be redirected to a new screen with more detailed information about it.
+- Create, view, edit, and delete dishes at any time.
+- View all dishes registered.
+- When clicking on a dish, be redirected to a new screen with more detailed information about it.
+
 Personas:
 
-Admin: The person responsible for the restaurant.
-User: The person who can view and interact with the menu.
+- Admin: The person responsible for the restaurant.
+- User: The person who can view and interact with the menu.
 
 <br/>  
 
