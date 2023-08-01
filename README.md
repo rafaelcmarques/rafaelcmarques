@@ -9,10 +9,11 @@
 - *🎓 I have a bachelor’s degree in Information System*  
   
 
-- *💻 I’m currently studying Web Development at [Rocketseat](https://github.com/rocketseat-education) 🚀*  
+- *💻 I’m a Web Developer with a passion for building web applications. I am proficient JavaScript, React and NodeJs.  
   
 
-- *🗣️ I'm bilingual in Portuguese and English*  
+- *🗣️ I'm bilingual in Portuguese and English*
+
   
 
 <br/>  
