@@ -9,7 +9,7 @@
 - *🎓 I have a bachelor’s degree in Information System*  
   
 
-- *💻 I’m a Web Developer with a passion for building web applications. I am proficient JavaScript, React and NodeJs.  
+- *💻 I’m a Developer with a passion for building web applications. I am proficient JavaScript, React and NodeJs.  
   
 
 - *🗣️ I'm bilingual in Portuguese and English*
